@@ -1,0 +1,78 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+section {
+    text-align: center;
+}
+
+.banner {
+    background-image: url(images/donation6.jpg);
+    background-size: cover;
+    width: 78%;
+    height: 55vh;
+    color: aliceblue;
+
+    padding-top: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    background-image: linear-gradient(tomato, crimson);
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 100px;
+
+
+
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.donate-today {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+
+
+span {
+    color: gray;
+}
+
+.amount-money {
+    display: flex;
+
+    box-align: center;
+}
+
+.amount {
+
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(241, 241, 241);
+    font-size: 40px;
+    color: gray;
+    border-radius: 10px;
+}
+
+#berable {
+    border: tomato 2px solid;
+    color: tomato;
+}
+
+#extra {
+    border-bottom: 1px rgb(209, 205, 205) solid;
+    color: gray;
+    padding-bottom: 20px;
+    padding-top: 100px;
+}
