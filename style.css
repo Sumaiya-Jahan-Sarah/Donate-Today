@@ -8,6 +8,8 @@ h1 {
 
 section {
     text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .banner {
@@ -81,7 +83,7 @@ span {
     margin-bottom: 60px;
 }
 
-#sector {
+.sector {
     display: flex;
 }
 
