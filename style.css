@@ -27,7 +27,7 @@ section {
 .link-button {
     text-decoration: none;
     color: aliceblue;
-    background-image: linear-gradient(tomato, crimson);
+    background-color: rgb(235, 76, 76);
     padding: 10px 20px;
     border-radius: 5px;
     margin-top: 100px;
@@ -71,8 +71,9 @@ span {
 }
 
 #berable {
-    border: tomato 2px solid;
-    color: tomato;
+    border: rgb(235, 76, 76) 2px solid;
+    color: rgb(247, 175, 175);
+    background-color: rgb(248, 214, 208);
 }
 
 #extra {
@@ -113,4 +114,42 @@ span {
 
 #shelter {
     background-color: antiquewhite
+}
+
+#email {
+    background-color: lightgrey;
+    padding-left: 10px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#subscribe {
+    padding-left: 10px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(235, 76, 76);
+    color: aliceblue;
+}
+
+#mail {
+    display: inline-flex;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    padding: 70px 150px;
+    background-color: blanchedalmond;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Lobster', cursive;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#humble {
+    color: rgb(235, 76, 76);
 }
