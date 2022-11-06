@@ -22,7 +22,7 @@ section {
     padding-right: 150px;
 }
 
-a {
+.link-button {
     text-decoration: none;
     color: aliceblue;
     background-image: linear-gradient(tomato, crimson);
