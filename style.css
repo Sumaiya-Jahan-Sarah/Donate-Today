@@ -1,5 +1,6 @@
 body {
     font-family: 'Nunito Sans', sans-serif;
+    margin: 0px;
 }
 
 h1 {
@@ -8,8 +9,7 @@ h1 {
 
 section {
     text-align: center;
-    margin-top: 50px;
-    margin-bottom: 50px;
+
 }
 
 .banner {
@@ -72,7 +72,7 @@ span {
 
 #berable {
     border: rgb(235, 76, 76) 2px solid;
-    color: rgb(247, 175, 175);
+    color: rgb(235, 76, 76);
     background-color: rgb(248, 214, 208);
 }
 
@@ -146,8 +146,8 @@ footer {
     text-align: center;
     color: aliceblue;
     font-family: 'Lobster', cursive;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 #humble {
